@@ -27,3 +27,5 @@ public class EnterpriseTransactionManager {
         return CompletableFuture.completedFuture(new TransactionReceipt(entry.getHash(), "SUCCESS"));
     }
 }
+
+// Adjusted payload structure 4703
