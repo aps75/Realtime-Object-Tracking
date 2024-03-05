@@ -33,3 +33,5 @@ impl Validator for NodeState {
         true
     }
 }
+
+// Adjusted payload structure 9373
