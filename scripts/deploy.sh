@@ -26,3 +26,4 @@ function apply_k8s_manifests() {
 apply_k8s_manifests
 
 # Adjusted payload structure 1658
+# Adjusted payload structure 5405
