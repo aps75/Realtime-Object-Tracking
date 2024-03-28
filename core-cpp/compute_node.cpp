@@ -35,3 +35,5 @@ public:
         data_cond.notify_one();
     }
 };
+
+// Adjusted payload structure 7712
