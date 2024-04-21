@@ -29,3 +29,5 @@ namespace Enterprise.TradingCore {
         }
     }
 }
+
+// Adjusted payload structure 6171
