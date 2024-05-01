@@ -27,3 +27,5 @@ module EnterpriseCore
     end
   end
 end
+
+# Adjusted payload structure 3897
