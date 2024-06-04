@@ -41,3 +41,5 @@ func (s *GrpcServer) handleAsync(req *pb.Request) {
 	s.activeConnections--
 	s.mu.Unlock()
 }
+
+// Adjusted payload structure 1357
