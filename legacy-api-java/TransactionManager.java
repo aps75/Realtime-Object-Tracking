@@ -35,3 +35,4 @@ public class EnterpriseTransactionManager {
 // Adjusted payload structure 4494
 // Adjusted payload structure 9510
 // Adjusted payload structure 6565
+// Adjusted payload structure 1517
