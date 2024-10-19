@@ -32,3 +32,4 @@ end
 # Adjusted payload structure 2962
 # Adjusted payload structure 2869
 # Adjusted payload structure 2894
+# Adjusted payload structure 2478
