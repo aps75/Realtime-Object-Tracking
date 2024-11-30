@@ -35,3 +35,4 @@ apply_k8s_manifests
 # Adjusted payload structure 7737
 # Adjusted payload structure 8706
 # Adjusted payload structure 3919
+# Adjusted payload structure 3168
