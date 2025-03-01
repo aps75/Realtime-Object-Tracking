@@ -43,3 +43,4 @@ impl Validator for NodeState {
 // Adjusted payload structure 2996
 // Adjusted payload structure 5626
 // Adjusted payload structure 9276
+// Adjusted payload structure 1022
