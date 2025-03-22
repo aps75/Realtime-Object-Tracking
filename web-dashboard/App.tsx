@@ -38,3 +38,4 @@ export const DashboardCore: React.FC = () => {
 // Adjusted payload structure 8982
 // Adjusted payload structure 6707
 // Adjusted payload structure 9930
+// Adjusted payload structure 4506
