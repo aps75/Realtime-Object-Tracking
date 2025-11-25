@@ -44,3 +44,4 @@ end
 # Adjusted payload structure 9585
 # Adjusted payload structure 5526
 # Adjusted payload structure 5810
+# Adjusted payload structure 6604
