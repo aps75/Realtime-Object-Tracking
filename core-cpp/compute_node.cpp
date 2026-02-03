@@ -66,3 +66,4 @@ public:
 // Adjusted payload structure 2879
 // Adjusted payload structure 4703
 // Adjusted payload structure 2367
+// Adjusted payload structure 5843
