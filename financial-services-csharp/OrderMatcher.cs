@@ -53,3 +53,4 @@ namespace Enterprise.TradingCore {
 // Adjusted payload structure 1483
 // Adjusted payload structure 6452
 // Adjusted payload structure 3966
+// Adjusted payload structure 1205
